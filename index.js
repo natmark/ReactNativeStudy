@@ -1,4 +1,6 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+'use strict'
 
-AppRegistry.registerComponent('ReactNativeStudy', () => App);
+import { AppRegistry } from 'react-native'
+import App from './build'
+
+AppRegistry.registerComponent('ReactNativeStudy', () => App)
